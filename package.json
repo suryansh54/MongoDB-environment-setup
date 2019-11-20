@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-environment-setup",
+  "version": "1.0.0",
+  "description": "Mongo DB Environment Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryansh54/MongoDB-environment-setup.git"
+  },
+  "author": "Suryansh Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryansh54/MongoDB-environment-setup/issues"
+  },
+  "homepage": "https://github.com/suryansh54/MongoDB-environment-setup#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.12"
+  }
+}
